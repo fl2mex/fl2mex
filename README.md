@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="img.gif" />
+	<img src="img.gif" width="300" height="300"/>
 <h1>Heyo! I'm Kaiden, (fl2mex). I enjoy coding primarily in C# but i've picked up C++ recently and started learning OpenGL.</h1>
 </p>
 
