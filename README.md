@@ -1,10 +1,10 @@
-<p align="center">
-	<img src="img.gif" width="300" height="300"/>
-<h1>Heyo! I'm Kaiden, (fl2mex). I enjoy coding primarily in C# but i've picked up C++ recently and started learning OpenGL.</h1>
-</p>
+<p align="center"><img src="img.gif" width="300" height="300"/></p>
+<h1 align="center">Heyo! I'm Kaiden, (fl2mex). I enjoy coding primarily in C# & C++<br>
+I've recently picked up C++ and am learning Vulkan & OpenGL.</h1>
 
-- 🔭 I primarily code in C#
-- 🌱 I’m currently learning C++ & OpenGL
-- 🤔 I’m currently working on a C++ & OpenGL Renderer
+- 🔭 I primarily code in C# and C++
+- 🌱 I’m currently learning Vulkan & OpenGL
+- 🤔 I’m currently working on a C++ & Vulkan Compute Renderer (Currently unbelievably broken, not public 😓)
+- 😎 My latest project is a [C++ & OpenGL Renderer](https://github.com/fl2mex/OpenGL-Test)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm from Australia so i'm **uʍop ǝpᴉsdn ʎlʇuǝɹɹnɔ**
