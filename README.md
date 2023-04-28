@@ -1,5 +1,5 @@
 <p align="center"><img src="img.gif" width="300" height="300"/></p>
-<h1 align="center">Heyo! I'm Kaiden, (fl2mex). I enjoy coding primarily in C# & C++<br>
+<h1>Heyo! I'm Kaiden, (fl2mex). I enjoy coding primarily in C# & C++<br>
 I've recently picked up C++ and am learning Vulkan & OpenGL.</h1>
 
 - 🔭 I primarily code in C# and C++
