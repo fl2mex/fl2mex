@@ -8,3 +8,4 @@ I've recently picked up C++ and am learning Vulkan & OpenGL.</h1>
 - 😎 My latest project is a [C++ & Vulkan Renderer](https://github.com/fl2mex/vkEngine)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm from Australia so i'm **uʍop ǝpᴉsdn ʎlʇuǝɹɹnɔ**
+- 😢 In case you notice a gap in my contributions, I'm probably focusing on school.
