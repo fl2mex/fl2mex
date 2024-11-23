@@ -3,9 +3,9 @@
 I've recently picked up ASM and am learning Vulkan.</h1>
 
 - 🔭 I primarily code in C++ and C
-- 🌱 I’m currently learning Vulkan & ASM
-- 🤔 I’m currently working on learning ASM and making a bootloader!
+- 🌱 I’m currently learning Vulkan & industry standard real-time rendering techniques!
+- 🤔 I’m currently working on learning Vulkan and reading Real Time Rendering: Fourth Edition!
 - 😎 My latest project is a [C++ & Vulkan Renderer](https://github.com/fl2mex/hyper)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm from Australia so i'm **uʍop ǝpᴉsdn ʎlʇuǝɹɹnɔ**
-- 😢 In case you notice a gap in my contributions, I'm probably focusing on school... update on that- school is beating my ass rn so yeah
+- 😢 In case you notice a gap in my contributions, I'm probably focusing on studying for uni!
